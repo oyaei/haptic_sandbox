@@ -1,11 +1,4 @@
 # HAPBOX (ハプボックス) 🎮✨
-> **スマホの触覚（ハプティクス）を自分で自在にカスタムして楽しむ、任天堂ライクな触覚コンソール＆サンドボックス**
-
-[![Domain](https://img.shields.io/badge/Domain-hapbox.apps.oyaiz.com-00C3E3?style=flat-square)](https://hapbox.apps.oyaiz.com)
-[![Package](https://img.shields.io/badge/Package-com.oyaiz.apps.hapbox-FF3B30?style=flat-square)](https://hapbox.apps.oyaiz.com)
-[![Platform](https://img.shields.io/badge/Platform-Flutter%20%7C%20Android%20%7C%20iOS-34C759?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/Languages-8%20Languages%20(ja%2C%20en%2C%20zh%2C%20es%2C%20fr%2C%20de%2C%20ko%2C%20pt)-FFCC00?style=flat-square)](#)
-
 ---
 
 ## 🌟 アプリ概要
